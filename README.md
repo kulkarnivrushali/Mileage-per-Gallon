@@ -20,4 +20,4 @@ visualize the correlation matrix to show relationships between variables.
 acceleration, model year, origin_2, and origin_3.
 7. Train-Test Split: The data should be split into two different sets: training and testing, in a ratio of 80% vs.
 20%.
-8. Training the Model: A Random Forest Regressor shou
+8. Training the Model: A Random Forest Regressor is used to train the model.
